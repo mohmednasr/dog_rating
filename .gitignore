@@ -1,4 +1,4 @@
 *.csv
 *.tsv
-.ipynb_checkpoint
+.ipynb_checkpoints
 tweet_json.txt
