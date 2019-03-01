@@ -2,3 +2,4 @@
 *.tsv
 .ipynb_checkpoints
 tweet_json.txt
+*.db
